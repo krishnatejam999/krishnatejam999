@@ -78,12 +78,15 @@ mindset: "Every vulnerability is a lesson. Every dataset is a story. Every algor
 
 <div align="center">
 
+Here's the updated block — paste this in place of your current $ ./connect.sh section:
+
+<div align="center">
+
 ### `$ ./connect.sh`
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/krishnatejam999)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://www.linkedin.com/in/krishnateja9/)
 
 <sub>⚡ Not chasing numbers — chasing mastery.</sub>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9C,100:0D1117&height=120&section=footer" />
