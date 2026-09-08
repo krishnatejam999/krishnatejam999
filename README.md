@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,50:00FF9C,100:0D1117&height=250&section=header&text=KRISHNA%20TEJA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20%C2%B7%20Data%20Science%20%C2%B7%20Artificial%20Intelligence&descAlignY=62&descSize=22&descColor=00FF9C" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9C,100:0D1117&height=220&section=header&text=Krishna%20Teja&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%C2%B7%20Data%20Science%20%C2%B7%20Artificial%20Intelligence&descAlignY=58&descSize=20&descColor=00FF9C" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Building+at+the+edge+of+security+%26+intelligence;Turning+curiosity+into+capability;Student+today.+Engineer+in+the+making." alt="Typing SVG" />
 
@@ -93,4 +93,4 @@ mindset: "Every vulnerability is a lesson. Every dataset is a story. Every algor
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,50:00FF9C,100:0D1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9C,100:0D1117&height=120&section=footer" />
