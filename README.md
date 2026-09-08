@@ -48,7 +48,7 @@ mindset: "Every vulnerability is a lesson. Every dataset is a story. Every algor
 
 ## `$ ./watch --contributions`
 
-<div align="center"> <img src="https://raw.githubusercontent.com/krishnatejam999/krishnatejam999/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<div align="center"> <img src=dist/github-contribution-grid-snake-dark.svg?palette=github-dark Replace it with: dist/github-contribution-grid-snake-dark.svg?color_snake=%2300ff9c&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353 />
 </div>
 
 ## `$ ./github-stats.sh --live`
