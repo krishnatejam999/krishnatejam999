@@ -1,33 +1,35 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9C,100:0D1117&height=220&section=header&text=Krishna%20Teja&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20%7C%20Cybersecurity%20%C2%B7%20Data%20Science%20%C2%B7%20AI&descAlignY=55&descSize=20&descColor=00FF9C" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,50:00FF9C,100:0D1117&height=250&section=header&text=KRISHNA%20TEJA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20%C2%B7%20Data%20Science%20%C2%B7%20Artificial%20Intelligence&descAlignY=62&descSize=22&descColor=00FF9C" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=whoami+%3D%3D+krishna+teja;role+%3D+%22student%22;interests+%3D+%5B%22cybersecurity%22%2C+%22data+science%22%2C+%22ai%22%5D;status+%3D+%22learning+%7C+building+%7C+shipping%22" alt="Typing SVG" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=krishnatejam999&label=PROFILE%20VIEWS&color=00FF9C&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/krishnatejam999?label=FOLLOWERS&style=for-the-badge&color=00FF9C" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9C?style=for-the-badge&logo=statuspage&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Building+at+the+edge+of+security+%26+intelligence;Turning+curiosity+into+capability;Student+today.+Engineer+in+the+making." alt="Typing SVG" />
 
 </div>
 
 <br>
 
-## `$ cat about.md`
+<div align="center">
+
+> ### 🛡️ *"I don't just study systems — I learn how to break them, defend them, and build smarter ones."*
+
+</div>
+
+<br>
+
+## `$ cat mission.md`
 
 ```yaml
 name: Krishna Teja
 role: Student
+mission: "Master the intersection of security, data, and intelligence"
 focus: [Cybersecurity, Data Science, Artificial Intelligence, DSA]
 languages: [Java, Python]
-currently_learning: "Applying AI & data science to real-world security problems"
-fun_fact: "Believes the best way to learn security is to keep building things"
+mindset: "Every vulnerability is a lesson. Every dataset is a story. Every algorithm is a tool."
 ```
 
 <br>
 
-## `$ ls tech-stack/`
+## `$ ls arsenal/`
 
 <div align="center">
 
@@ -39,6 +41,18 @@ fun_fact: "Believes the best way to learn security is to keep building things"
 ![Data Science](https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge&logo=databricks&logoColor=00FF9C&labelColor=0D1117)
 ![DSA](https://img.shields.io/badge/DSA-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF9C&labelColor=0D1117)
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logo=openai&logoColor=00FF9C&labelColor=0D1117)
+
+</div>
+
+<br>
+
+## `$ ./watch --contributions`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/krishnatejam999/krishnatejam999/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<sub>⚙️ Live animated snake fed by real contribution activity — see setup note below.</sub>
 
 </div>
 
@@ -59,34 +73,24 @@ fun_fact: "Believes the best way to learn security is to keep building things"
 
 <br>
 
-## `$ ./activity-graph --render`
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishnatejam999&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff&area=true&area_color=00FF9C" />
-
-</div>
-
-<br>
-
 ## `$ ./trophies --unlock`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=krishnatejam999&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=krishnatejam999&theme=darkhub&no-frame=true&margin-w=8&row=1&column=6" />
 
 </div>
 
 <br>
 
-## `$ ./connect.sh`
-
 <div align="center">
+
+### `$ ./connect.sh`
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/krishnatejam999)
 
-<sub>⚡ Always learning, always building — thanks for stopping by.</sub>
+<sub>⚡ Not chasing numbers — chasing mastery.</sub>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9C,100:0D1117&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,50:00FF9C,100:0D1117&height=120&section=footer" />
