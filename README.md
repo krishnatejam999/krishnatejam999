@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Krishna Teja 👋<br><br>1st year BTech student at IARE, diving into Cybersecurity and AI/Data Science.<br><br>Currently learning the fundamentals — open to collaborating on beginner-friendly projects!
+Hi, I'm Krishna Teja 👋<br><br>diving into Cybersecurity and AI/Data Science.<br><br>Currently learning the fundamentals — open to collaborating on beginner-friendly projects!
 
 
 ## 🌐 Socials:
