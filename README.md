@@ -66,22 +66,6 @@ mindset: "Every vulnerability is a lesson. Every dataset is a story. Every algor
 
 <br>
 
-## `$ ./trophies --unlock`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=krishnatejam999&theme=darkhub&no-frame=true&margin-w=8&row=1&column=6" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-Here's the updated block — paste this in place of your current $ ./connect.sh section:
-
-<div align="center">
-
 ### `$ ./connect.sh`
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/krishnatejam999)
