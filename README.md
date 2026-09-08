@@ -46,6 +46,11 @@ mindset: "Every vulnerability is a lesson. Every dataset is a story. Every algor
 
 <br>
 
+## `$ ./watch --contributions`
+
+<div align="center"> <img src="https://raw.githubusercontent.com/krishnatejam999/krishnatejam999/output/github-contribution-grid-snake-dark.svg" width="100%" /> </div>
+
+
 ## `$ ./github-stats.sh --live`
 
 <div align="center">
